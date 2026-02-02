@@ -8,6 +8,4 @@ Note: The Yi-Handwritten-Dataset can only be used for non-commercial research pu
 # Description
 Currently, there is a lack of publicly available image datasets for handwritten Yi script in classical texts, which limits research and application in Yi script detection tasks. We have constructed a handwritten Yi script dataset for classical texts. This dataset originates from handwritten Yi ethnic group documents, including canonical texts such as "Chao Du Wang Ling Song Zu Jing "and "Ji Zu Bi Gong Sheng Li Yi Jing". A total of 172 images of ancient texts were collected, with each page containing approximately 200 Yi characters. Character-level annotation was employed, combining semi-automated annotation with manual correction to ensure annotation quality.The following is an example of a dataset:
 
-![]https://github.com/785zm/Yi-Handwritten-Dataset/blob/main/26.jpg
-![]https://github.com/785zm/Yi-Handwritten-Dataset/blob/main/27.jpg
-![]https://github.com/785zm/Yi-Handwritten-Dataset/blob/main/28.jpg
+
