@@ -15,6 +15,3 @@ Currently, there is a lack of publicly available image datasets for handwritten 
   <img src="https://github.com/785zm/Yi-Handwritten-Dataset/blob/main/28.jpg" width="260" />
 </p>
 
-
-<img src="https://github.com/785zm/Yi-Handwritten-Dataset/blob/main/26.jpg" width="200" height="150"><img src="https://github.com/785zm/Yi-Handwritten-Dataset/blob/main/27.jpg" width="200" height="150"><img src="https://github.com/785zm/Yi-Handwritten-Dataset/blob/main/28.jpg" width="200" height="150"/>
-
